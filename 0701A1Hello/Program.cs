@@ -8,6 +8,11 @@ namespace _0701A1Hello
 {
     class Program
     {
+        static void Hallo()
+        {
+            Console.WriteLine("Hallo ist in Stoppenberg!");
+        }
+
         static void Main(string[] args)
         {
         }
