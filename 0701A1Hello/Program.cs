@@ -10,11 +10,12 @@ namespace _0701A1Hello
     {
         static void Hallo()
         {
-            Console.WriteLine("Hallo ist in Stoppenberg!");
+            Console.WriteLine("Hallo Welt!");
         }
 
         static void Main(string[] args)
         {
+            Hallo();
         }
     }
 }
